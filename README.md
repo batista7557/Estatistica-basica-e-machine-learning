@@ -5,4 +5,15 @@ Fundamentos de estatística e de machine learning com Python, utlizando o Google
 - Moda;
 - Desvio Padrão;
 - Variância;
-- Percentil.
+- Percentil;
+- Distribuição de dados;
+- Distribuição normal;
+- Gráfico de dispersão;
+- Regreessão linear;
+- Regressão polinomial;
+- Regressão múltipla;
+- Treino/Teste;
+- Árvore de decisão;
+- Confusion matrix;
+- Hierarchical clustering;
+- Logistic regression.
